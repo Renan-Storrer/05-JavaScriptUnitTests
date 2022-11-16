@@ -18,7 +18,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 2. Entre no diretório que acabou de criar e depois clone o projeto:
 ```javascript
   cd projetos
-  git clone git@github.com:annabia95/project-js-unit-tests.git
+  git clone git@github.com:Renan-Storrer/05-JavaScriptUnitTests.git
 ```
 
 3. Acesse o diretório do projeto e depois utilize o comando **npm i** para instalar todas as dependências necessárias:
